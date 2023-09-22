@@ -56,7 +56,7 @@ const Statistics = async ({ params: { gameId } }: Props) => {
           <div className="flex items-center space-x-2">
             <Link href="/dashboard" className={buttonVariants()}>
               <LucideLayoutDashboard className="mr-2" />
-              Back to Dashboard
+             Zpět na Nástěnku
             </Link>
           </div>
         </div>
